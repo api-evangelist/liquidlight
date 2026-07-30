@@ -1,23 +1,75 @@
 aid: liquidlight
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/liquidlight.png
 name: LiquidLight
-description: LiquidLight is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'LiquidLight, Inc. (Liquid Light) was an electrochemistry company based in Monmouth
+  Junction, New Jersey that developed and licensed process technology for converting carbon dioxide
+  into industrial chemicals. Founded in 2009 by Kyle Teamey, Emily Cole, Andrew Bocarsly, Fouad
+  Elnaggar and Nety Krishna around technology licensed from Princeton University, the company built a
+  portfolio of more than 100 patents covering the electrochemical production of chemicals including
+  monoethylene glycol (MEG), propylene and acetic acid, with MEG as its lead target market. It raised
+  seed funding from Redpoint Ventures and a $15 million Series B in September 2014 from investors
+  including VantagePoint Capital Partners and BP Ventures, and was also a Battery Ventures portfolio
+  investment. Avantium acquired Liquid Light on January 10, 2017 and the company ceased operating
+  independently. LiquidLight was a materials and process-technology company: it never published a
+  public API, developer portal, SDKs or any machine-readable developer surface, and no company web
+  property survives the acquisition. This profile is retained in the API Evangelist network as an
+  accurate, non-API portfolio record.'
 url: https://raw.githubusercontent.com/api-evangelist/liquidlight/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-api-surface
+x-status: acquired
+x-acquired-by: Avantium
+x-acquired-date: '2017-01-10'
+x-operating: false
+x-api-provider: false
+x-enrichment-note: 'Enriched 2026-07-19. Researched as LiquidLight, Inc. (CO2-to-chemicals, Monmouth
+  Junction NJ), acquired by Avantium 2017-01-10. No live company domain: liquid-light.com is an
+  unrelated photography business, liquidlightinc.com redirects to seedsheets.com, llchemical.com
+  returns HTTP 520, liquidlight.net does not resolve. No API, no developer surface. No API artifacts
+  were generated - correctly empty rather than fabricated.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Chemicals
+- Carbon Capture
+- Electrochemistry
+- Materials Science
+- Clean Technology
+- Industrial
+- Acquired
+- Battery Ventures Portfolio
 apis: []
+common:
+- type: Acquirer
+  name: Avantium (acquirer of LiquidLight, Inc.)
+  url: https://www.avantium.com
+- type: Reference
+  name: Battery Ventures portfolio listing (exited investment)
+  url: https://www.battery.com/list-of-all-companies/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
