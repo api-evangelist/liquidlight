@@ -42,7 +42,7 @@ x-enrichment-note: 'Enriched 2026-07-19. Researched as LiquidLight, Inc. (CO2-to
   unrelated photography business, liquidlightinc.com redirects to seedsheets.com, llchemical.com
   returns HTTP 520, liquidlight.net does not resolve. No API, no developer surface. No API artifacts
   were generated - correctly empty rather than fabricated.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
