@@ -64,18 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LiquidLight, Inc. (Liquid Light) was an electrochemistry company in Monmouth Junction, New Jersey that
-developed and licensed process technology for converting carbon dioxide into industrial chemicals —
-monoethylene glycol (MEG), propylene and acetic acid — from technology licensed out of Princeton
-University. Founded in 2009, it raised seed funding from Redpoint Ventures and a $15M Series B in 2014
-from VantagePoint Capital Partners and BP Ventures, and was a Battery Ventures portfolio investment.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-**Status: acquired.** Avantium acquired Liquid Light on January 10, 2017 and the company no longer
-operates independently.
+LiquidLight, Inc. (Liquid Light) was an electrochemistry company based in Monmouth Junction, New Jersey that developed and licensed process technology for converting carbon dioxide into industrial chemicals. Founded in 2009 by Kyle Teamey, Emily Cole, Andrew Bocarsly, Fouad Elnaggar and Nety Krishna around technology licensed from Princeton University, the company built a portfolio of more than 100 patents covering the electrochemical production of chemicals including monoethylene glycol (MEG), propylene and acetic acid, with MEG as its lead target market. It raised seed funding from Redpoint Ventures and a $15 million Series B in September 2014 from investors including VantagePoint Capital Partners and BP Ventures, and was also a Battery Ventures portfolio investment. Avantium acquired Liquid Light on January 10, 2017 and the company ceased operating independently. LiquidLight was a materials and process-technology company: it never published a public API, developer portal, SDKs or any machine-readable developer surface, and no company web property survives the acquisition. This profile is retained in the API Evangelist network as an accurate, non-API portfolio record.
 
-**No API surface.** LiquidLight was a materials and process-technology company. It never published a
-public API, developer portal, SDKs, or any machine-readable developer surface, and no company web
-property survived the acquisition. This repository is kept as an accurate non-API portfolio record;
-the enrichment pipeline correctly produced no API artifacts rather than fabricating any.
+**Areas:** Company · Chemicals · Carbon Capture · Electrochemistry · Materials Science · Clean Technology · Industrial · Acquired · Battery Ventures Portfolio
 
-Backed by: battery-ventures
+## LiquidLight on APIs.io (historical record)
+
+Everything profiled for LiquidLight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/liquidlight/](https://apis.io/providers/liquidlight/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LiquidLight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/liquidlight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
